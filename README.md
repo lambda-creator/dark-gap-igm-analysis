@@ -41,9 +41,9 @@ Simulated Sightlines → Optical Depth → Flux → Dark Gap Identification
 * Independent estimation of **mean free path ($\lambda_{\mathrm{mfp}}$)**
 
 ---
-## Example Result
+## Constraint Plot obtained from Dark Gap Statistics
 
-![CDF Comparison](results/CDF.png)
+![Upper Bound Constraints on Neutral Fraction](results/reion_hist.png)
 
 ---
 
